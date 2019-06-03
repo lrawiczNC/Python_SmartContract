@@ -1,0 +1,18 @@
+//cambiar el nombre del archivo por Users.json y completar la data adecuada
+{
+	"Ethereum" : {
+		"0":{
+			"priv":"",
+			"pub":"",
+			"address":"",
+			"mnomonic" : ""//innecesario
+		}
+
+	}
+	,
+	"Infura" : {
+		"projectID":"",	
+		"ProjectSecret":""
+	}
+	
+}
