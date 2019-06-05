@@ -6,8 +6,13 @@
 			"pub":"",
 			"address":"",
 			"mnomonic" : ""//innecesario
+		},
+		"1":{
+			"priv":"",
+			"pub":"",
+			"address":"",
+			"mnomonic" : ""//innecesario
 		}
-
 	}
 	,
 	"Infura" : {
